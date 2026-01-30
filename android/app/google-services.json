@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "898947286893",
+    "project_id": "data-analitica2",
+    "storage_bucket": "data-analitica2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898947286893:android:57e1686399b55cf05d3c64",
+        "android_client_info": {
+          "package_name": "com.example.data_analitica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClM2z2_shMSwrK_BgHLCxPCrSlvDQ4VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898947286893:android:ae114ae678c5fef55d3c64",
+        "android_client_info": {
+          "package_name": "com.example.data_analitica_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClM2z2_shMSwrK_BgHLCxPCrSlvDQ4VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898947286893:android:2e561befa330baeb5d3c64",
+        "android_client_info": {
+          "package_name": "com.example.data_piedras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClM2z2_shMSwrK_BgHLCxPCrSlvDQ4VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
